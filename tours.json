@@ -1,6 +1,13 @@
 {
   "tours": [
     {
+      "slug": "test-3",
+      "title": "Test 3",
+      "subtitle": "2026-06-13",
+      "updated": "2026-06-13T21:56:49.927Z",
+      "url": "https://stevensassoc.github.io/tours/test-3/"
+    },
+    {
       "slug": "test-tour-2",
       "title": "Test Tour 2",
       "subtitle": "",
