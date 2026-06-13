@@ -5,7 +5,8 @@ window.TOUR = {
     "logo": "assets/logo.png",
     "accent": "#3a8f9c",
     "autoRotate": false,
-    "showWelcome": true
+    "showWelcome": true,
+    "cover": "assets/cover.jpg"
   },
   "scenes": [
     {
@@ -13,8 +14,8 @@ window.TOUR = {
       "name": "R0010030",
       "image": "assets/panos/r0010030.jpg",
       "initialView": {
-        "yaw": 0,
-        "pitch": 0,
+        "yaw": 1.8849037600338678,
+        "pitch": -0.12450071484254495,
         "fov": 1.2
       },
       "linkHotspots": [
@@ -40,8 +41,8 @@ window.TOUR = {
       "name": "R0010029",
       "image": "assets/panos/r0010029.jpg",
       "initialView": {
-        "yaw": -1.4061520760612765,
-        "pitch": -0.3963426988398344,
+        "yaw": -4.5292443679649566,
+        "pitch": -0.1434750405717763,
         "fov": 1.2
       },
       "linkHotspots": [
