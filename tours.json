@@ -8,6 +8,13 @@
       "url": "https://stevensassoc.github.io/tours/test-3/"
     },
     {
+      "slug": "test-tour",
+      "title": "Test Tour ",
+      "subtitle": "",
+      "updated": "2026-06-14T21:25:55.440Z",
+      "url": "https://stevensassoc.github.io/tours/test-tour/"
+    },
+    {
       "slug": "test-tour-2",
       "title": "Test Tour 2",
       "subtitle": "",
