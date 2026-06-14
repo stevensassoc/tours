@@ -5,7 +5,8 @@ window.TOUR = {
     "logo": "assets/logo.png",
     "accent": "#3a8f9c",
     "autoRotate": false,
-    "showWelcome": true
+    "showWelcome": true,
+    "cover": "assets/cover.jpg"
   },
   "scenes": [
     {
