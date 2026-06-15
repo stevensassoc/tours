@@ -13,6 +13,13 @@
       "subtitle": "2026-06-14",
       "updated": "2026-06-14T23:17:50.146Z",
       "url": "https://tours.stevens-assoc.com/test-4/"
+    },
+    {
+      "slug": "test-tour",
+      "title": "Test Tour ",
+      "subtitle": "",
+      "updated": "2026-06-15T12:06:28.442Z",
+      "url": "https://tours.stevens-assoc.com/test-tour/"
     }
   ]
 }
